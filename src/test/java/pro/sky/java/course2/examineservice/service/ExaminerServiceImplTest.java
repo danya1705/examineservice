@@ -6,7 +6,7 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
-import pro.sky.java.course2.examineservice.domain.Question;
+import pro.sky.java.course2.examineservice.model.Question;
 import pro.sky.java.course2.examineservice.exception.InvalidAmountOfQuestionsException;
 
 import java.util.Collection;

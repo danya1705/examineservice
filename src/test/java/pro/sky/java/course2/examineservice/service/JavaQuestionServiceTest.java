@@ -3,7 +3,7 @@ package pro.sky.java.course2.examineservice.service;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import pro.sky.java.course2.examineservice.domain.Question;
+import pro.sky.java.course2.examineservice.model.Question;
 import pro.sky.java.course2.examineservice.exception.QuestionAlreadyInTheListException;
 import pro.sky.java.course2.examineservice.exception.QuestionNotFoundException;
 

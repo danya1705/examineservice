@@ -1,4 +1,4 @@
-package pro.sky.java.course2.examineservice.domain;
+package pro.sky.java.course2.examineservice.model;
 
 import java.util.Objects;
 

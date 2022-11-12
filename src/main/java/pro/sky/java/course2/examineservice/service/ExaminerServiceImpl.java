@@ -1,7 +1,7 @@
 package pro.sky.java.course2.examineservice.service;
 
 import org.springframework.stereotype.Service;
-import pro.sky.java.course2.examineservice.domain.Question;
+import pro.sky.java.course2.examineservice.model.Question;
 import pro.sky.java.course2.examineservice.exception.InvalidAmountOfQuestionsException;
 
 import java.util.Collection;
